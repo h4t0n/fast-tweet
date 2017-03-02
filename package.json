@@ -1,7 +1,7 @@
 {
   "name": "fast-tweet",
-  "version": "1.0.0",
-  "description": "A simple interface to send a tweet with a single call",
+  "version": "1.0.1",
+  "description": "A simple interface to send a tweet with a single function call",
   "main": "./lib/fastTweet.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
