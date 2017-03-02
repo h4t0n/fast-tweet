@@ -14,5 +14,14 @@
   "license": "MIT",
   "dependencies": {
     "twitter": "^1.7.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h4t0n/fast-tweet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/h4t0n/fast-tweet/issues"
+  },
+  "homepage": "https://github.com/h4t0n/fast-tweet#readme"
 }
