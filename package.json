@@ -1,0 +1,18 @@
+{
+  "name": "fast-tweet",
+  "version": "1.0.0",
+  "description": "A simple interface to send a tweet with a single call",
+  "main": "./lib/fastTweet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "tweet"
+  ],
+  "author": "Andrea Tarquini <tarquiniandreagm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
